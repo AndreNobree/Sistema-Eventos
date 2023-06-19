@@ -10,8 +10,9 @@
 
 - TROQUE A URL DA OPEN WEATHER API (API_URL) PELA SUA URL COM A SUA CHAVE, ELA ESTÁ ARMAZENADA NO "Respostas.java".
 
-![Screenshot_2](https://github.com/AndreNobree/Sistema-de-Eventos/assets/26747693/8a730ad6-4421-4fa9-b827-1d1c49ec134b)
-![Screenshot_1](https://github.com/AndreNobree/Sistema-de-Eventos/assets/26747693/35f5b345-68c3-4984-871e-fe49ead02980)
-![Screenshot_3](https://github.com/AndreNobree/Sistema-de-Eventos/assets/26747693/8b54a913-670c-4503-a998-1bd8a06838b6)
-![Screenshot_4](https://github.com/AndreNobree/Sistema-de-Eventos/assets/26747693/853a2677-b411-4677-bbb6-ef64e7e34037)
-![Screenshot_5](https://github.com/AndreNobree/Sistema-de-Eventos/assets/26747693/4a13010f-3864-423a-a007-29c070979c35)
+
+![Screenshot_2](https://github.com/AndreNobree/Sistema-Eventos/assets/26747693/e0a2a6b4-2078-4f59-8876-11cde348fbe7)
+![Screenshot_1](https://github.com/AndreNobree/Sistema-Eventos/assets/26747693/f001a522-d5a1-4117-ba19-99b7661b7a39)
+![Screenshot_3](https://github.com/AndreNobree/Sistema-Eventos/assets/26747693/5f795868-0f99-427d-9e8f-cafabc982655)
+![Screenshot_4](https://github.com/AndreNobree/Sistema-Eventos/assets/26747693/d092e180-18d0-4e3e-bc59-81dd6c5b2d92)
+![Screenshot_5](https://github.com/AndreNobree/Sistema-Eventos/assets/26747693/6f36c0df-a90b-4c2e-894f-3d58c62e1b57)
