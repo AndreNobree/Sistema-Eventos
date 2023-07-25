@@ -27,7 +27,7 @@ import org.json.JSONObject;
 
 
 public class Respostas {
-    //    https://auth-db814.hstgr.io/index.php?route=/&route=%2F&db=u265170636_bdandre
+   
     String jdbcUrl = "URL_DO_BANCO";
     String username = "USUARIO_DO_BANCO";
     String password = "SENHA_DO_BANCO";
